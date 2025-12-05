@@ -9,4 +9,4 @@
 
 | Notebook 이름 | Google Colab |
 | :--- | :--- |
-| **NumPy 기초 및 제어문** | [![](https://colab.research.google.com/assets/colab-badge.svg)]([https://colab.research.google.com/drive/1xBRYiazD0xiFKvLni8jQZF61Hnb1zPV6#scrollTo=Oc1GRQ1ZWsRa])
+| **NumPy 기초 및 제어문** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanho-275/WOWS/blob/main/numpy_%ED%95%99%EC%8A%B5.ipynb) |
