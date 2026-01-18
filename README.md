@@ -9,5 +9,6 @@
 
 | Notebook 이름 | Google Colab |
 | :--- | :--- |
-| **NumPy 학습** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanho-275/WOWS/blob/main/numpy_%ED%95%99%EC%8A%B5.ipynb) |
+| **NumPy 학습** | 
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanho-275/WOWS/blob/main/numpy_%ED%95%99%EC%8A%B5.ipynb) |
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/chanho-275/WOWS/blob/main/Pricing.ipynb) |
