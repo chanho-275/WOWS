@@ -12,4 +12,4 @@
 | **NumPy 학습** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/chanho-275/WOWS/blob/main/numpy_%ED%95%99%EC%8A%B5.ipynb) |
 | **1_stock_stepdown_Pricing** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/chanho-275/WOWS/blob/main/Pricing.ipynb) |
 | **dynamic_delta_hedging** | [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/chanho-275/WOWS/blob/main/Dynamic_Delta_Hedging.ipynb) |
-
+| **back_testing** |[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1h9EBxQUS0_z1TWBjhaxfJ0XqnbTRm-1u)
